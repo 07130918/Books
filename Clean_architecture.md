@@ -48,4 +48,6 @@ OCPに最も適しているのは **Interactor** である。
 
 Interractor => ControllerとDBの間で最も保護されるべきレイヤー
 
+### 9. LSP: リスコフの置換原則
+### 10. ISP: インターフェイス分離の原則
 
